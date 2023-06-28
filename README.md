@@ -4,7 +4,6 @@ Disciplina: Linguagem de Programação 2
 Documentação
 
 1. Introdução da documentação
-
   O objetivo desta documentação é especificar os requisitos do funcionamento das publicações dos artigos fornecendo
 fornecendo aos usuários as informações necessárias do projeto e a implementação, assim como para a realização dos testes e homologação
 do sistema.
