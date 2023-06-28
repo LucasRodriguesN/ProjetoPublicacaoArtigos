@@ -19,3 +19,5 @@ bem como excluir artigos e autores, desde que autores não tenham artigos public
 
 1.3 Método de trabalho
   O desenvolvimento do sistema de publicação de artigo e cadastro de autores seguiu uma abordagem ágil.
+
+Alunos: Caio Douglas, Lucas Rodrigues, Fernando França e Daniel Lopes
